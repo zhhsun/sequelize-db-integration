@@ -1,0 +1,22 @@
+{
+  "name": "sequelize-db-integration",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhhsun/sequelize-db-integration.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zhhsun/sequelize-db-integration/issues"
+  },
+  "homepage": "https://github.com/zhhsun/sequelize-db-integration#readme",
+  "dependencies": {
+    "sequelize": "^6.26.0"
+  }
+}
